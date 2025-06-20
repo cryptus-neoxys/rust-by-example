@@ -1,0 +1,33 @@
+{
+  "workbench.colorCustomizations": {
+    "terminal.background": "#282a36",
+    "terminal.foreground": "#eff0eb",
+    "terminal.ansiBlack": "#282a36",
+    "terminal.ansiRed": "#ff5c57",
+    "terminal.ansiGreen": "#63f594",
+    "terminal.ansiYellow": "#f3f99d",
+    "terminal.ansiBlue": "#4d1dcf",
+    "terminal.ansiMagenta": "#ff6ac1",
+    "terminal.ansiCyan": "#9aedfe",
+    "terminal.ansiWhite": "#f1f1f0",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#ff5c57",
+    "terminal.ansiBrightGreen": "#5af78e",
+    "terminal.ansiBrightYellow": "#f3f99d",
+    "terminal.ansiBrightBlue": "#57c7ff",
+    "terminal.ansiBrightMagenta": "#ff6ac1",
+    "terminal.ansiBrightCyan": "#9aedfe",
+    "terminal.ansiBrightWhite": "#eff0eb",
+    "activityBar.background": "#143328",
+    "titleBar.activeBackground": "#1C4839",
+    "titleBar.activeForeground": "#F7FCFA"
+  },
+  "editor.formatOnSave": true,
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.check.command": "clippy",
+  "rust-analyzer.check.extraArgs": [ "--all-features" ],
+  "rust-analyzer.inlayHints.chainingHints.enable": false,
+  "rust-analyzer.inlayHints.typeHints.enable": false,
+  "rust-analyzer.inlayHints.parameterHints.enable": false
+
+}
